@@ -1,0 +1,26 @@
+_prefs: 
+  saveCenter: false
+_properties: {}
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox</a> <a href='https://openstreetmap.org/about/' target='_blank'>&copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - 12.5039
+  - 41.887
+  - 18
+description: A painstakingly hand-drawn representation of the entire world. 2B graphite on acid-free paper.
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 21
+minzoom: 0
+name: Pencil
+source: "http://openmaptiles.org/cdn.json"
+styles: 
+  - style.mss
+  - road.mss
+  - label.mss 
+template: ''
